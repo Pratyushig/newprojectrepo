@@ -2,7 +2,7 @@
 int main ()
 {int num1,num2,num3;
 sumoftwonumber=num1+num2;
-cout << num1<<"+"
+cout << num1<<"+"num2git
 cout <<"Hello world";
 return 0 ;
 }
