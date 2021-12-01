@@ -1,6 +1,7 @@
 #include <iostream>
 int main ()
 {int num1,num2,num3;
+sumoftwonumber=num1+num2;
 cout <<"Hello world";
 return 0 ;
 }
